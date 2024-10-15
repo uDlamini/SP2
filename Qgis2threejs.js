@@ -1,6 +1,7 @@
 // (C) 2014 Minoru Akagi
 // SPDX-License-Identifier: MIT
 // https://github.com/minorua/Qgis2threejs
+//test
 
 "use strict";
 
